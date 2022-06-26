@@ -1,4 +1,4 @@
-
+//This is not used its placed in github so that I could see me mistakes and learn from them.
 /*let board = [
     [-1,-1,-1],
     [-1,-1,-1],
