@@ -76,11 +76,9 @@ body { min-height: 100%; }
     display: grid;
     grid-template-rows: repeat(3,1fr);
     grid-template-columns: repeat(3,1fr);
-    gap: 30px;
+    gap: 10px;
 }
 .cells{
-    width: 90px;
-    height: 90px;
     background-color: rgb(221, 212, 212);
 }
 .footer{
