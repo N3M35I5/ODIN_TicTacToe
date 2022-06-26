@@ -80,6 +80,10 @@ body { min-height: 100%; }
 }
 .cells{
     background-color: rgb(221, 212, 212);
+    font-size:80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .footer{
     grid-row: 3/4;
